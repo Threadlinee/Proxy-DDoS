@@ -41,8 +41,8 @@ pip install pystyle
 #⚙️ Usage
 Clone the repo:
 
-git clone https://github.com/Threadlinee/DDoS.git
-cd ProxyDDoS
+git clone https://github.com/Threadlinee/Proxy-DDoS.git
+cd Proxy-DDoS
 Add your proxy list to a file named proxys.txt:
 
 192.168.1.1:8080
@@ -50,7 +50,7 @@ Add your proxy list to a file named proxys.txt:
 203.0.113.5:8080
 Run the script:
 
-python ddos.py
+python ProxyDDoS.py
 Input the target URL (example: http://example.com)
 
 # ℹ️ The attack will run infinitely until you stop the script manually (Ctrl+C).
@@ -84,3 +84,5 @@ Educational use only. Stay ethical.
 
 # ☕ Support
 If you find this tool useful, drop a ⭐ or fork it. Contributions and proxy improvements are welcome.
+
+[![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
