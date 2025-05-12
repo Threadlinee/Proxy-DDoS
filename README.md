@@ -46,11 +46,9 @@ Clone the repo:
 
 git clone https://github.com/Threadlinee/Proxy-DDoS.git
 cd Proxy-DDoS
-Add your proxy list to a file named proxys.txt:
-
-192.168.1.1:8080
-51.91.123.7:3128
-203.0.113.5:8080
+python proxy.py
+then
+python ProxyDDoS.py
 Run the script:
 
 python ProxyDDoS.py
