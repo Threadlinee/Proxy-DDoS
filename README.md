@@ -41,7 +41,7 @@ The tool establishes a `CONNECT` tunnel via each proxy to the target host, then 
 
 pip install pystyle
 
-#⚙️ Usage
+# ⚙️ Usage
 Clone the repo:
 
 git clone https://github.com/Threadlinee/Proxy-DDoS.git
