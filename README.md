@@ -19,9 +19,6 @@ ProxyDDoS is an educational tool designed for stress-testing and simulating real
 
 ## 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/719d424c-90ff-4314-a467-4face1397da3)
-
-![image](https://github.com/user-attachments/assets/8814bc11-a10f-4143-973f-341825a2782b)
 
 
 ---
