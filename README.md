@@ -47,7 +47,7 @@ git clone https://github.com/Threadlinee/ProxyDDoS.git
 cd ProxyDDoS
 then
 Run the script:
-python ddos-508
+python ddos-508.py
 
 python ddos-508.py
 Input the target URL (example: http://example.com)
